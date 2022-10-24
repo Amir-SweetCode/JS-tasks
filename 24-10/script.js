@@ -1,8 +1,11 @@
 
-let camelCase = 1,
-    snake_case = 2,
-    PascalCase = 3;
-alert(camelCase);
-alert(snake_case);
-alert(PascalCase);
+let name = 'Привет, Amir!',
+    age = 'Мне 19 лет!';
+let str1 = 'Salam, ',
+    str2 = 'Bishkek';
+alert(name);
+alert(age);
+alert(str1+str2);
+
+
 

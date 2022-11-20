@@ -1,0 +1,46 @@
+
+#ok-btn, #ok-btn1, #ok-btn2{
+    font-size: 16px;
+    color: #ffffff;
+    padding: 15px 50px;
+    margin: 10px 0 0 20px;
+    border: 1px solid #0d6efd;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #0d6efd;
+}
+
+.notification {
+    width: 700px;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 20px 0 0 0;
+    border-radius: 0.375rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.notification-primary {
+    color: #084298;
+    background-color: #cfe2ff;
+    border-color: #b6d4fe;
+}
+
+.notification-secondary {
+    color: #41464b;
+    background-color: #e2e3e5;
+    border-color: #d3d6d8;
+}
+
+.notification-success {
+    color: #0f5132;
+    background-color: #d1e7dd;
+    border-color: #badbcc;
+}
+
+#close-btn{
+    background: 0;
+    border: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
